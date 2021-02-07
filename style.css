@@ -12,6 +12,12 @@ h4 {
     font-weight: lighter;
 }
 
+h1 {
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+}
+
 #container {
     width: 1000px;
     height: 550px;
